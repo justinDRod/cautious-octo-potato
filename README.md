@@ -1,2 +1,3 @@
 # cautious-octo-potato
-A test repository for my mentorship program to show mentees how to deploy code to Heroku
+- A test repository for my mentorship program to show mentees how to deploy code to Heroku
+- test 1
