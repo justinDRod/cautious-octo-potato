@@ -1,4 +1,5 @@
 from app.main import root
+from app.main import alex
 def test_root(): 
     print(root())
     assert root() == {"message": "Hello, smith!!!"}
