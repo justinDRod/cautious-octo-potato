@@ -1,3 +1,3 @@
 from app.main import root
 def test_root(): 
-    assert root("Alex") == {"message": "Hello, Alex!!!"}
+    assert root("Alex") == []

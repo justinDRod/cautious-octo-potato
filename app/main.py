@@ -6,13 +6,13 @@ locations = []
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
+    global locations
     with open("app/resources/locations.json", "r") as f:
-      locations.append(json.load(f))
+      locations = locations + json.load(f)
       yield
 
 app = FastAPI(lifespan=lifespan)
 
 @app.get("/")
 def root(address: str):
-    print(locations)
-    return {"message": "Hello, " + address + "!!!"}
+    return locations
