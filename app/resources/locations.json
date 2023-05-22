@@ -1,22 +1,42 @@
 [
-  {
-    "name": "name1",
-    "lat": "29.5249757",
-    "Long": "-98.7826064"
-  },
-  {
-    "name": "name2",
-    "lat": "42.7265389",
-    "Long": "-84.4150644"
-  },
-  {
-    "name": "name3",
-    "lat": "9.9981413",
-    "Long": "-84.1197643"
-  },
-  {
-    "name": "name4",
-    "lat": "43.2630126",
-    "Long": "-2.9349852"
-  }
+    {
+        "name": "San Antonio Food Bank",
+        "lat": "29.4172747",
+        "Long": "-98.5917975"
+    },
+    {
+        "name": "Christian Assistance Ministry  Food Distribution Center",
+        "lat": "29.5633764",
+        "Long": "-98.5842741"
+    },
+    {
+        "name": "Bulverde Food Pantry Inc",
+        "lat": "29.7447056",
+        "Long": "-98.4542791"
+    },
+    {
+        "name": "SVDP Prince of Peace Conference",
+        "lat": "29.4800456",
+        "Long": "-98.6423293"
+    },
+    {
+        "name": "First Love Church  Food Distribution Center",
+        "lat": "29.5115896",
+        "Long": "-98.5645261"
+    },
+    {
+        "name": "Daily Bread Ministries",
+        "lat": "29.4398704",
+        "Long": "-98.4279542"
+    },
+    {
+        "name": "DEVINE FOOD PANTRY",
+        "lat": "29.143013",
+        "Long": "-98.904179"
+    },
+    {
+        "name": "River City Living Church Food Pantry At Beat Aids  Food Distribution Center",
+        "lat": "29.4404206",
+        "Long": "-98.4961785"
+    }
 ]
